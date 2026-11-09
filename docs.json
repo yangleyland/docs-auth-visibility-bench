@@ -421,7 +421,8 @@
           "reference/page-197",
           "reference/page-198",
           "reference/page-199"
-        ]
+        ],
+        "public": true
       },
       {
         "group": "internal",
